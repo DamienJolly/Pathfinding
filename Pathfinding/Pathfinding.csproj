@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Authors>Damien Jolly</Authors>
+    <Company />
+    <Description>A basic 2D pathfinder.</Description>
+    <PackageProjectUrl>https://github.com/DamienJolly/Pathfinding</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/DamienJolly/Pathfinding</RepositoryUrl>
+    <PackageTags>pathfinder pathfinding</PackageTags>
   </PropertyGroup>
 
 </Project>
